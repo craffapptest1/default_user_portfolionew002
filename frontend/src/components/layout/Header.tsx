@@ -23,7 +23,7 @@ const Header = () => {
           <div className="flex-shrink-0 flex items-center">
             <Link
               href="/"
-              className="text-2xl text-yellow-500 transition-all duration-300"
+              className="text-2xl text-red-600 transition-all duration-300"
             >
               portfolionew002
             </Link>
