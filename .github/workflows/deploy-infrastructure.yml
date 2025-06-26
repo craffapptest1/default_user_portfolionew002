@@ -9,7 +9,6 @@ name: Deploy Infrastructure
 env:
   PROJECT_ID: 13109c56-35b6-4c7e-98fb-93ff410dffd4
   WEBHOOK_SECRET: MHv7y4zE9pXG2wqAFU1cJRt3NZmLkoBd
-  
 jobs:
   terraform:
     runs-on: ubuntu-latest
