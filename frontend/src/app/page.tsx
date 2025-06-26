@@ -20,7 +20,7 @@ export default function Home() {
               />
             </div>
             <div className="space-y-4">
-              <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent animate-fade-in">
+              <h1 className=" md:text-6xl lg:text-7xl bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent animate-fade-in">
                 Welcome to My Portfolio
               </h1>
               <p className="mx-auto max-w-[700px] text-gray-600 md:text-xl text-lg leading-relaxed animate-fade-in-delay">
